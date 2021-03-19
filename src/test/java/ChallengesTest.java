@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ChallengesTest {
+class ChallengesTest {
     @Test
     void should_return_0_when_there_is_no_remained(){
         double a = 2.00;
